@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25928.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QucikScript", "QucikScript\QucikScript.csproj", "{8E64BED4-8698-45FF-A2B7-C30C69DD8BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleQucikScript", "ConsoleQucikScript\ConsoleQucikScript.csproj", "{0CBEDD05-BECE-4D03-AB9D-600E6CC5F6EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterQucikScript", "Interpreter\InterpreterQucikScript.csproj", "{06EF421B-748D-4E1C-B89E-5D651A092C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E64BED4-8698-45FF-A2B7-C30C69DD8BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E64BED4-8698-45FF-A2B7-C30C69DD8BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E64BED4-8698-45FF-A2B7-C30C69DD8BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E64BED4-8698-45FF-A2B7-C30C69DD8BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBEDD05-BECE-4D03-AB9D-600E6CC5F6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBEDD05-BECE-4D03-AB9D-600E6CC5F6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBEDD05-BECE-4D03-AB9D-600E6CC5F6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBEDD05-BECE-4D03-AB9D-600E6CC5F6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EF421B-748D-4E1C-B89E-5D651A092C2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EF421B-748D-4E1C-B89E-5D651A092C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EF421B-748D-4E1C-B89E-5D651A092C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EF421B-748D-4E1C-B89E-5D651A092C2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
